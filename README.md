@@ -1,23 +1,19 @@
-# Initial page
+---
+description: >-
+  这本书中，神奇的总结了我在软件开发过程中，类Unix平台遇到的极具生产力的开发工具配置使用方法！In this book, I have magically
+  summed up the use of highly productive development tools I encountered in
+  Unix-like platforms during software development
+---
 
-## Getting Super Powers
+# CookbookCollections
 
-Becoming a super hero is a fairly straight forward process:
+## 我可以在哪里看到作者的个人主页？
 
-```
-$ give me super-powers
-```
+[http://liuqingtong.com/](http://liuqingtong.com/)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## 我会持续更新这本书吗？
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+当然，并且有问题可以邮件联系我！我的邮件地址：liuqingtong.dev@gmail.com
 
 
 
